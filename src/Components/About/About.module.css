@@ -1,0 +1,11 @@
+.Sbg{
+    margin-top: 5%;
+    height: 80vh;
+    background-color:rgb(26, 188, 156);
+}
+
+.line{
+    width:8%;
+    height:3px;
+    background-color: white !important;
+}

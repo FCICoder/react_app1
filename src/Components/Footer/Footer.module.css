@@ -1,0 +1,20 @@
+.bground{
+    background-color: rgb(44, 62, 80);
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    
+}
+
+.icon{
+    border: 1px solid white ;
+    border-radius: 50%;
+    font-size: 15px;
+    padding: 9px;
+    /* background-color: white; */
+}
+
+.fbg{
+    height: 10vh;
+    background-color: rgb(26, 37, 47)
+}

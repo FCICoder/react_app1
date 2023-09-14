@@ -1,0 +1,16 @@
+.nav_bg{
+    background-color: rgb(26, 37, 47)
+}
+
+.link{
+    border-radius: 25px;
+    transition: all .0s;
+}
+.link:hover , .link:active{
+    background-color: rgb(89, 207, 125);
+    border-radius: 25px;
+}
+
+/* .link:active{
+    background-color:rgb(89, 207, 125);
+} */
